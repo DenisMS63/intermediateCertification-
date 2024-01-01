@@ -38,3 +38,7 @@ string [] showElemsWhichEqualAndLessThenThree3 = ShowElemsWhichEqualAndLessThenT
 // Console.WriteLine($"Строковый массив по методу: [{string.Join(" ", showElemsWhichEqualAndLessThenThree1)}]");
 // Console.WriteLine($"Строковый массив по методу: [{string.Join(" ", showElemsWhichEqualAndLessThenThree2)}]");
 // Console.WriteLine($"Строковый массив по методу: [{string.Join(" ", showElemsWhichEqualAndLessThenThree3)}]");
+
+PrintArray(showElemsWhichEqualAndLessThenThree1);
+PrintArray(showElemsWhichEqualAndLessThenThree2);
+PrintArray(showElemsWhichEqualAndLessThenThree3);
